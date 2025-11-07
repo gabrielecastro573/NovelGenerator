@@ -1,6 +1,6 @@
 {
   "name": "novelgenerator",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Local AI novel generator for Gemini and Ollama. Write coherent novels chapter by chapter with causal planning, persistent story memory, scene handoffs, and continuity checks.",
   "main": "src/index.ts",
   "scripts": {
